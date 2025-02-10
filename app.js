@@ -1,4 +1,4 @@
 // concatenated string
-let welcomeMessage = "Welcome to the " + "Math Quiz!";
+let welcomeMessage = "Simple " + "Math Quiz!";
 console.log(welcomeMessage);
 document.write("<h2>" + welcomeMessage + "</h2>");
